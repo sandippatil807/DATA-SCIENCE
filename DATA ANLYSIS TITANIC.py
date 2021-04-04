@@ -35,8 +35,8 @@ from sklearn.tree import DecisionTreeClassifier
 # In[4]:
 
 
-train_df = pd.read_csv(r'C:\Users\Sandip Patil\Desktop\DSL\1\train.csv')
-test_df = pd.read_csv(r'C:\Users\Sandip Patil\Desktop\DSL\1\test.csv')
+train_df = pd.read_csv(r'C:\Users\User\Desktop\DSL\1\train.csv')
+test_df = pd.read_csv(r'C:\Users\User\Desktop\DSL\1\test.csv')
 combine = [train_df, test_df]
 
 
